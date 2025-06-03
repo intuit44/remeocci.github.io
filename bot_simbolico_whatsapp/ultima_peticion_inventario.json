@@ -1,0 +1,10 @@
+{
+  "inventario": {
+    "Refrescos": 120,
+    "AlgodonDeAzucar": 50,
+    "Palomitas": 30
+  },
+  "fecha_actualizacion": "2025-05-28",
+  "hora_actualizacion": "11:21:18 p.m.",
+  "fuente": "bot_pc_parque"
+}

@@ -1,0 +1,82 @@
+2025/05/22-01:32:01.044 5a00 Reusing MANIFEST C:\ProyectosSimbolicos\bot_simbolico_whatsapp\tokens\bot_simbolico\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/22-01:32:01.045 5a00 Recovering log #1766
+2025/05/22-01:32:01.065 5a00 Reusing old log C:\ProyectosSimbolicos\bot_simbolico_whatsapp\tokens\bot_simbolico\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001766.log 
+2025/05/22-01:32:02.149 6010 Level-0 table #1801: started
+2025/05/22-01:32:02.160 6010 Level-0 table #1801: 876668 bytes OK
+2025/05/22-01:32:02.161 6010 Delete type=0 #1766
+2025/05/22-01:32:02.162 6010 Manual compaction at level-0 from '\x00,\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at '\x00,\x00\x00\x05' @ 4678714 : 1
+2025/05/22-01:32:02.162 6010 Compacting 1@0 + 0@1 files
+2025/05/22-01:32:02.170 6010 Generated table #1802@0: 15063 keys, 342269 bytes
+2025/05/22-01:32:02.172 6010 Generated table #1803@0: 422 keys, 70029 bytes
+2025/05/22-01:32:02.185 6010 Generated table #1804@0: 94 keys, 1797 bytes
+2025/05/22-01:32:02.185 6010 Compacted 1@0 + 0@1 files => 414095 bytes
+2025/05/22-01:32:02.185 6010 compacted to: files[ 0 3 46 0 0 0 0 ]
+2025/05/22-01:32:02.186 6010 Delete type=2 #1801
+2025/05/22-01:32:02.186 6010 Manual compaction at level-0 from '\x00,\x00\x00\x05' @ 4678714 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/22-01:32:02.930 5a00 Compacting 1@1 + 12@2 files
+2025/05/22-01:32:02.982 5a00 Generated table #1805@1: 41310 keys, 2250605 bytes
+2025/05/22-01:32:03.032 5a00 Generated table #1806@1: 31945 keys, 2262011 bytes
+2025/05/22-01:32:03.075 5a00 Generated table #1807@1: 34852 keys, 2249166 bytes
+2025/05/22-01:32:03.112 5a00 Generated table #1808@1: 28404 keys, 2225767 bytes
+2025/05/22-01:32:03.134 5a00 Generated table #1809@1: 11736 keys, 2137793 bytes
+2025/05/22-01:32:03.156 5a00 Generated table #1810@1: 9580 keys, 2133785 bytes
+2025/05/22-01:32:03.175 5a00 Generated table #1811@1: 6674 keys, 2128825 bytes
+2025/05/22-01:32:03.224 5a00 Generated table #1812@1: 91998 keys, 2241126 bytes
+2025/05/22-01:32:03.273 5a00 Generated table #1813@1: 100900 keys, 2250547 bytes
+2025/05/22-01:32:03.326 5a00 Generated table #1814@1: 101163 keys, 2251336 bytes
+2025/05/22-01:32:03.331 5a00 Generated table #1815@1: 5106 keys, 118369 bytes
+2025/05/22-01:32:03.331 5a00 Compacted 1@1 + 12@2 files => 22249330 bytes
+2025/05/22-01:32:03.332 5a00 compacted to: files[ 0 2 45 0 0 0 0 ]
+2025/05/22-01:32:03.341 5a00 Compacting 1@1 + 25@2 files
+2025/05/22-01:32:03.383 5a00 Generated table #1816@1: 69029 keys, 2254484 bytes
+2025/05/22-01:32:03.401 5a00 Generated table #1817@1: 4037 keys, 2150183 bytes
+2025/05/22-01:32:03.418 5a00 Generated table #1818@1: 2097 keys, 2151528 bytes
+2025/05/22-01:32:03.434 5a00 Generated table #1819@1: 2982 keys, 2146466 bytes
+2025/05/22-01:32:03.451 5a00 Generated table #1820@1: 3024 keys, 2156227 bytes
+2025/05/22-01:32:03.467 5a00 Generated table #1821@1: 2618 keys, 2151873 bytes
+2025/05/22-01:32:03.486 5a00 Generated table #1822@1: 3047 keys, 2149822 bytes
+2025/05/22-01:32:03.503 5a00 Generated table #1823@1: 3102 keys, 2151221 bytes
+2025/05/22-01:32:03.518 5a00 Generated table #1824@1: 2504 keys, 2144603 bytes
+2025/05/22-01:32:03.534 5a00 Generated table #1825@1: 2282 keys, 2137892 bytes
+2025/05/22-01:32:03.548 5a00 Generated table #1826@1: 2112 keys, 1530348 bytes
+2025/05/22-01:32:03.548 5a00 Compacted 1@1 + 25@2 files => 23124647 bytes
+2025/05/22-01:32:03.548 5a00 compacted to: files[ 0 1 31 0 0 0 0 ]
+2025/05/22-01:32:03.549 5a00 Delete type=2 #570
+2025/05/22-01:32:03.549 5a00 Delete type=2 #805
+2025/05/22-01:32:03.549 5a00 Delete type=2 #833
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1016
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1220
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1372
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1395
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1440
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1531
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1563
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1597
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1656
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1678
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1723
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1747
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1757
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1772
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1773
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1774
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1775
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1776
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1777
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1778
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1779
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1780
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1781
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1782
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1783
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1784
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1785
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1786
+2025/05/22-01:32:03.549 5a00 Delete type=2 #1787
+2025/05/22-01:32:03.550 5a00 Delete type=2 #1788
+2025/05/22-01:32:03.550 5a00 Delete type=2 #1789
+2025/05/22-01:32:03.550 5a00 Delete type=2 #1790
+2025/05/22-01:32:03.550 5a00 Delete type=2 #1791
+2025/05/22-01:32:03.550 5a00 Delete type=2 #1792
+2025/05/22-01:32:03.550 5a00 Delete type=2 #1802
+2025/05/22-01:32:03.550 5a00 Delete type=2 #1803

@@ -1,0 +1,80 @@
+HISTORIAS DE INSTAGRAM AUTOMATIZADAS
+
+| Acción                                              | Comando/Resultado                                          |
+| --------------------------------------------------- | ---------------------------------------------------------- |
+| Enviar un video por WhatsApp                        | El bot lo analiza y responde con sugerencia para Instagram |
+| Confirmar desde el grupo con: `SÍ PUBLICAR videoID` | El bot publica automáticamente en Stories                  |
+| Ver estado: `estado instagram`                      | Te muestra videos pendientes y estado actual               |
+| Pedir ayuda: `consejos instagram`                   | Genera guía para grabar mejor contenido                    |
+
+
+🚀 INICIANDO PRUEBAS DE CONFIGURACIÓN INSTAGRAM
+
+🔍 Verificando archivo .env...
+📁 Ruta: C:\ProyectosSimbolicos\.env
+✅ Archivo .env encontrado
+
+🧪 TESTING INSTAGRAM API CONFIGURATION...
+
+✅ Token configurado: EAAOTCQqRom0BOxUUfzV...
+✅ Business Account ID: 17841467510606639
+
+📋 Test 1: Verificando cuenta de Instagram Business...
+✅ Cuenta verificada: @playmallmcbo
+✅ Nombre: Parque de Diversiones🎢🎡
+✅ Seguidores: 2443
+
+🔐 Test 2: Verificando permisos del token...
+✅ Permisos otorgados:
+   📄 pages_show_list
+   📄 pages_messaging
+   🔥 instagram_basic
+   🔥 instagram_content_publish
+   📄 whatsapp_business_management
+   📄 instagram_manage_messages
+   🔥 pages_read_engagement
+   📄 pages_manage_posts
+   📄 whatsapp_business_messaging
+   📄 public_profile
+
+⚠️ Permisos faltantes críticos:
+   ❌ instagram_manage_comments
+
+💡 Para agregar permisos:
+   1. Ve a Facebook Developer Console
+   2. Selecciona tu app
+   3. Ve a Graph API Explorer
+   4. Genera nuevo token con permisos requeridos
+
+
+📤 Test 3: Probando acceso a contenido...
+✅ Acceso a media exitoso - 5 elementos encontrados
+📋 Últimos posts:
+   1. IMAGE - 27/5/2025
+   2. IMAGE - 19/5/2025
+   3. IMAGE - 18/5/2025
+   4. IMAGE - 17/5/2025
+   5. IMAGE - 17/5/2025
+
+🎬 Test 4: Verificando capacidad de Stories...
+✅ Endpoint de Stories accesible: https://graph.facebook.com/v18.0/17841467510606639/media
+✅ Listo para publicar Stories cuando se envíen videos reales
+
+============================================================
+🎉 ¡CONFIGURACIÓN DE INSTAGRAM COMPLETADA EXITOSAMENTE!
+============================================================
+📱 Cuenta: @playmallmcbo
+👥 Seguidores: 2443
+🔑 Token: Válido y funcional
+📊 Permisos: Completos
+🚀 Estado: Listo para automatización
+============================================================
+
+💡 PRÓXIMOS PASOS:
+   1. El bot de WhatsApp ya puede analizar videos automáticamente
+   2. Videos con alta puntuación se enviarán para confirmación
+   3. Stories se publicarán en horarios óptimos para Venezuela
+   4. Respuestas automáticas con acento zuliano activadas
+
+🎯 ¡El sistema está listo para @playmallmcbo!
+PS C:\ProyectosSimbolicos\bot_simbolico_whatsapp>
